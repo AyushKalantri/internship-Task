@@ -1,0 +1,40 @@
+#img-div{
+    background-color: #000000;
+    border:10px solid #000000;
+    margin-bottom: 10px;
+}
+body{
+    background-color: rgb(5, 35, 90);
+}
+img {
+    box-shadow: 5px 10px 8px #ffffff;
+    padding: 1%;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#img-caption{
+    margin:1px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+    color: #ffffff;
+}
+
+#title{
+    margin-top: 50px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+#para{
+    margin-top: 15px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+#tribute-info{
+    text-align: center;
+    background-color: #ecececd8;
+}
